@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cmqoc
+- 👋 Hi, I’m @cmqoc (Carol)
 - 👀 I’m interested in software development, quality assurance, and documentation. As well as crocheting!
 - 🌱 I’m currently learning Python and the Odoo software.
 - 💞️ I’m looking to collaborate on any Odoo projects we have.
